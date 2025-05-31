@@ -9,3 +9,4 @@
 ### 𝘀𝗼𝗰𝗶𝗮𝗹꧂
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1248237938404491265)
 
+fandoms...Bungou Stray Dogs, Black Butler, SK8: the infinity, Ensstars, Moriarty The Patriot, Ranfren, Danganronpa, Tokyo Ghoul(?) + more I don't remember
