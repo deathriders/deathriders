@@ -1,6 +1,8 @@
 ╰┈➤ “𝗢𝗻𝗲 𝘄𝗼𝗿𝗱 𝗳𝗿𝗼𝗺 𝘆𝗼𝘂, 𝗮𝗻𝗱 𝗜 𝘄𝗶𝗹𝗹 𝗷𝘂𝗺𝗽 𝗼𝗳𝗳 𝘁𝗵𝗶𝘀 𝗹𝗲𝗱𝗴𝗲 𝗜'𝗺 𝗼𝗻 𝗯𝗮𝗯𝘆,,
 
-![image](https://github.com/user-attachments/assets/d82d2960-33a1-4049-9a84-6462d706df8e)
+![image](https://github.com/user-attachments/assets/947b65de-dee9-4ca1-b113-157fd410f89c)
+
+
 
 
 ![image](https://github.com/user-attachments/assets/6d4ec5e8-8eea-4807-b36c-1eaa6750688b)
