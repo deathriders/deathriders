@@ -1,15 +1,8 @@
-ily mr odasaku...i want you forever and ever!!!/ref
-![image](https://github.com/user-attachments/assets/947b65de-dee9-4ca1-b113-157fd410f89c)
+> gotta get on the enstars grind for kogas birthday card.
+> 
+![image](https://github.com/user-attachments/assets/2262b26a-5081-4789-afbe-0ade0d8bce3c)
+![image](https://github.com/user-attachments/assets/6645c9b1-10c7-48e1-892e-9bfd6009b633)
 
-
-
-
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/6d4ec5e8-8eea-4807-b36c-1eaa6750688b)
    [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31b25bsstoynkweenmnkhgj2mwou&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### 𝘀𝗼𝗰𝗶𝗮𝗹
