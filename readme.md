@@ -4,6 +4,8 @@
 [![Static Badge](https://img.shields.io/badge/Atabook-%231f0a0a)](https://odasakunosuke.atabook.org)
 [![Static Badge](https://img.shields.io/badge/carrd-d9d2e9)](https://belph3g0r.carrd.co/)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31saywgu2bcdy7qfeazrs7mrrp7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 <p align="center">
 c+h and interact on ponytown is fine
 </p>
