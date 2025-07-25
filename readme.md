@@ -5,14 +5,9 @@
 [![Static Badge](https://img.shields.io/badge/carrd-d9d2e9)](https://belph3g0r.carrd.co/)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31saywgu2bcdy7qfeazrs7mrrp7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
 <p align="center">
-c+h and interact on ponytown is fine
+<br> ${\textsf{\color{#63120d}  c+h and int on pt is encouraged .    }}$
 </p>
 <p align="center">
 
-
-
-
-
-![image](https://github.com/user-attachments/assets/44ad2012-0df9-4a4c-938e-4cef33fb06ab)
+$${\color{coral}I \space \color{coral}love \space \color{coral}my \space \color{coral}husband \space \color{coral}@vic♡}$$
