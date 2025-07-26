@@ -6,7 +6,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31saywgu2bcdy7qfeazrs7mrrp7m&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <p align="center">
-<br> ${\textsf{\color{#63120d}  c+h and int on pt is encouraged .    }}$
+<br> ${\textsf{\color{#63120d}  c+h and int on pt is encouraged even if it isn't in my pony name.    }}$
 </p>
 <p align="center">
 
