@@ -1,4 +1,4 @@
-<img width="1280" height="300" alt="image" src="https://github.com/user-attachments/assets/63a6b6e8-22d2-4f74-9ac9-9e00d3b69085" />
+<img width="1280" height="250" alt="image" src="https://github.com/user-attachments/assets/63a6b6e8-22d2-4f74-9ac9-9e00d3b69085" />
 
 <img width="1250" height="720" alt="image" src="https://s7.ezgif.com/tmp/ezgif-740de0477e9a4.gif" />
 <img src="https://dcbadge.limes.pink/api/shield/1248237938404491265" />
