@@ -1,6 +1,8 @@
-![image](https://github.com/user-attachments/assets/664889c9-9436-4adb-bee2-ee7e8873c088)
-![ezgif com-resize (1)](https://github.com/user-attachments/assets/c5a84bc2-e366-468a-9b46-59e96e78ffbb)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1248237938404491265)
+<img width="1280" height="300" alt="image" src="https://github.com/user-attachments/assets/63a6b6e8-22d2-4f74-9ac9-9e00d3b69085" />
+
+<img width="1250" height="720" alt="image" src="https://s7.ezgif.com/tmp/ezgif-740de0477e9a4.gif" />
+<img src="https://dcbadge.limes.pink/api/shield/1248237938404491265" />
+
 [![Static Badge](https://img.shields.io/badge/Atabook-%231f0a0a)](https://odasakunosuke.atabook.org)
 [![Static Badge](https://img.shields.io/badge/carrd-a9a0bd)](https://belph3g0r.carrd.co/)
 [![Static Badge](https://img.shields.io/badge/Rentry-acaeb0)](https://rentry.co/kuramasfallenangel)
@@ -12,3 +14,4 @@
 <p align="center">
 
 $${\color{coral}I \space \color{coral}love \space \color{coral}my \space \color{coral}husband \space \color{coral}@vic♡}$$
+
