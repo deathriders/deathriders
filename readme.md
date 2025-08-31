@@ -15,4 +15,5 @@ $${\color{#dff2f2}I \space \color{#dff2f2}love \space \color{#dff2f2}my \space \
 [![Static Badge](https://img.shields.io/badge/Rentry-acaeb0)](https://rentry.co/deathr1der)
 
 
-readme is a wip
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f98103eb-fc02-48e3-acf9-dec516817dcb" /> this is my cat call her pretty NOW
+
