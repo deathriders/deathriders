@@ -9,7 +9,7 @@ $${\color{#dff2f2}I \space \color{#dff2f2}love \space \color{#dff2f2}my \space \
   <img width="600" height="555" alt="image" src="https://github.com/user-attachments/assets/12fde3cb-1411-4067-9ce8-0bb8e87e125f" />
 <p align="center">
   
-                   [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1248237938404491265)
+                  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1248237938404491265)
 [![Static Badge](https://img.shields.io/badge/Atabook-%231f0a0a)](https://odasakunosuke.atabook.org)
 [![Static Badge](https://img.shields.io/badge/carrd-a9a0bd)](https://belph3g0r.carrd.co/)
 [![Static Badge](https://img.shields.io/badge/Rentry-acaeb0)](https://rentry.co/deathr1der)
