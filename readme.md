@@ -6,7 +6,7 @@
 $${\color{#dff2f2}I \space \color{#dff2f2}love \space \color{#dff2f2}my \space \color{#dff2f2}husband \space \color{#dff2f2}@vic♡}$$
 
 <p align="center">
-  <img width="500" height="500" alt="image_Nero_AI_Image_Upscaler_Photo_Face" src="https://github.com/user-attachments/assets/941a47a5-40cd-43c6-b8e8-39f35d08e5d5" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/174be808-66d0-4c81-9c66-1f435f307b0f" />
 <p align="center">
   
                     [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1248237938404491265)
