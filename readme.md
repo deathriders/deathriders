@@ -5,7 +5,7 @@
 
 $${\color{#dff2f2}I \space \color{#dff2f2}love \space \color{#dff2f2}my \space \color{#dff2f2}husband \space \color{#dff2f2}@vic♡}$$
 <p align="center">
-<img width="2225" height="930" alt="image" src="https://github.com/user-attachments/assets/373429d2-3499-494a-b5c6-41f1ccd070b6" />
+<img width="628" height="644" alt="image" src="https://github.com/user-attachments/assets/58fb96c4-e81a-468b-87e3-e097cd875bc2" />
 <p align="center">
 
   
