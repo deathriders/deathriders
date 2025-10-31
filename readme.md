@@ -13,7 +13,7 @@ $${\color{#dff2f2}Hai \space \color{#dff2f2}@vic♡}$$
 [![Static Badge](https://img.shields.io/badge/Atabook-%231f0a0a)](https://odasakunosuke.atabook.org)
 [![Static Badge](https://img.shields.io/badge/carrd-a9a0bd)](https://deathr1der.carrd.co/)
 [![Static Badge](https://img.shields.io/badge/Rentry-acaeb0)](https://rentry.co/deathr1der)
-<img width="60" height="29" alt="image" src="https://github.com/user-attachments/assets/4780927b-a0b4-4c4c-b877-6d5038c9e931" />
+<img width="75" height="25" alt="image" src="https://github.com/user-attachments/assets/509ef8aa-edd4-42d4-932c-d5daab5b87b1" />
 
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f98103eb-fc02-48e3-acf9-dec516817dcb" /> this is my cat call her pretty NOW
