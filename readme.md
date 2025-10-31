@@ -3,7 +3,7 @@
 <br> ${\textsf{\color{#cadede}  c+h and int on pt is encouraged even if it isn't in my pony name.    }}$
 <p align="center">
 
-$${\color{#dff2f2}I \space \color{#dff2f2}love \space \color{#dff2f2}my \space \color{#dff2f2}husband \space \color{#dff2f2}@vic♡}$$
+$${\color{#dff2f2}Hai \space \color{#dff2f2}@vic♡}$$
 <p align="center">
 <img width="463" height="640" alt="image" src="https://github.com/user-attachments/assets/8bbb0ffa-4dc0-4a92-b592-3a03af5f4969" />
 <p align="center">
