@@ -1,12 +1,10 @@
+<div align="center">
 
-<p align="center">
 <br> ${\textsf{\color{#cadede}  c+h and int on pt is encouraged even if it isn't in my pony name.    }}$
-<p align="center">
 
 $${\color{#dff2f2}Hai \space \color{#dff2f2}@vic♡}$$
-<p align="center">
+
 <img width="463" height="640" alt="image" src="https://github.com/user-attachments/assets/8bbb0ffa-4dc0-4a92-b592-3a03af5f4969" />
-<p align="center">
 
   
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1248237938404491265)
@@ -15,6 +13,11 @@ $${\color{#dff2f2}Hai \space \color{#dff2f2}@vic♡}$$
 [![Static Badge](https://img.shields.io/badge/Rentry-acaeb0)](https://rentry.co/deathr1der)
 <img width="75" height="25" alt="image" src="https://github.com/user-attachments/assets/509ef8aa-edd4-42d4-932c-d5daab5b87b1" />
 
+-
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f98103eb-fc02-48e3-acf9-dec516817dcb" /> this is my cat call her pretty NOW
+<img width="404" height="240.5" alt="image" src="https://github.com/user-attachments/assets/9f733dbd-6ea3-4ec0-a620-90f6e0744308" />
+
+  me and user [@deathsdespair](https://github.com/deathsdespair)
+
+
 
