@@ -1,7 +1,7 @@
 <div align="center">
 
-<br> ${\textsf{\color{#cadede}  c+h and int on pt is encouraged even if it isn't in my pony name.    }}$
-<br> ${\textsf{\color{#cadede}  my love @vic  }}$
+<br> ${\textsf{\color{#e1d9f6}  c+h and int on pt is encouraged even if it isn't in my pony name.    }}$
+<br> ${\textsf{\color{#e1d9f6}  my love @vic  }}$
 
 <img width="490" height="490" alt="image" src="https://github.com/user-attachments/assets/36474c36-bf71-4c48-8c85-25f3076c74e5" />
 
