@@ -3,7 +3,8 @@
 <br> ${\textsf{\color{#e1d9f6}  c+h and int on pt is encouraged even if it isn't in my pony name.    }}$
 <br> ${\textsf{\color{#e1d9f6}  my love @vic  }}$
 
-<img width="490" height="490" alt="image" src="https://github.com/user-attachments/assets/36474c36-bf71-4c48-8c85-25f3076c74e5" />
+<img width="410" height="410" alt="image" src="https://github.com/user-attachments/assets/eba46d4d-a2eb-4114-84ce-2f3b1062ccdc" />
+
 
   
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/1248237938404491265)
