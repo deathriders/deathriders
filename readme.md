@@ -2,8 +2,7 @@
 
 <br> ${\textsf{\color{#eabfd8}  c+h and int on pt is encouraged even if it isn't in my pony name.    }}$
 <br> ${\textsf{\color{#eabfd8}  my prince @vic  }}$
-
-<img width="450" height="650" alt="image" src="https://github.com/user-attachments/assets/a618f136-a650-40df-b677-e2c0218c4d64" />
+<img width="2000" height="1169" alt="image" src="https://github.com/user-attachments/assets/e412fb20-f3f8-4f89-95c0-90fd2b97f900" />
   
 [![Static Badge](https://img.shields.io/badge/Discord-%23d19dbc?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1248237938404491265)](https://discord.com/users/1248237938404491265)
 [![Static Badge](https://img.shields.io/badge/Atabook-%23d19dbc?logoColor=white&link=https%3A%2F%2Fdeathrider.atabook.org%2F)](https://deathrider.atabook.org)
