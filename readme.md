@@ -1,6 +1,8 @@
 <div align="center">
 
-<br> ${\textsf{\color{#ffffff}  c+h and int on pt is encouraged even if it isn't in my pony name. can cud even if im with friends
+<br> ${\textsf{\color{#ffffff}  c+h and int on pt is encouraged even if it isn't in my pony name.
+    }}$
+  <br> ${\textsf{\color{#ffffff}   can cud even if im with friends
     }}$
 
   
