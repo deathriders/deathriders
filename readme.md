@@ -6,7 +6,7 @@
     }}$
 
   
-<img width="595" height="769" alt="image" src="https://github.com/user-attachments/assets/28617f76-f436-4e32-b48a-920fde80f1c5" />
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/c6d9777f-3a30-4dfe-ac49-c1de3ebd3b45" />
 
     
   
@@ -17,7 +17,7 @@
 <img width="65" height="28" alt="image" src="https://github.com/user-attachments/assets/e87b3059-5eda-43ba-af5f-10ed6e54dcad" />
 
 -  
-<img width="273" height="192" alt="image" src="https://github.com/user-attachments/assets/a3566ade-1f6e-4130-ae83-8e0a5cd57a58" />
+<img width="302" height="186" alt="image" src="https://github.com/user-attachments/assets/0ba44f23-d7f9-4133-b60e-cb3a7730ecb8" />
 
 
   me and user [@deathsdespair](https://github.com/deathsdespair)
