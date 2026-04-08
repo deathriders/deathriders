@@ -5,7 +5,7 @@
   <br> ${\textsf{\color{#ffffff}   can cud even if im with friends
     }}$
 
-  <img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/6ba7cba3-cdf4-4eab-b40d-804a243a8d81" />
+<img width="2251" height="603" alt="image" src="https://github.com/user-attachments/assets/71057783-ecf1-4bba-aca8-98713e3a9d56" />
 
     
   
@@ -16,7 +16,7 @@
 <img width="65" height="28" alt="image" src="https://github.com/user-attachments/assets/e87b3059-5eda-43ba-af5f-10ed6e54dcad" />
 
 -  
-<img width="199" height="122" alt="image" src="https://github.com/user-attachments/assets/e7f13cad-d0be-41b8-9296-8d71043ee00d" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1aeb3172-2c17-42bc-ade2-11736f64fcd6" />
 
 
   me and user [@deathsdespair](https://github.com/deathsdespair)
