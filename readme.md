@@ -5,9 +5,7 @@
   <br> ${\textsf{\color{#ffffff}   can cud even if im with friends
     }}$
 
-<img width="2251" height="603" alt="image" src="https://github.com/user-attachments/assets/71057783-ecf1-4bba-aca8-98713e3a9d56" />
-
-    
+<img width="350" height="350" alt="image" src="https://files.catbox.moe/ii675u.gif" />
   
 [![Static Badge](https://img.shields.io/badge/Discord-%23d19dbc?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1248237938404491265)](https://discord.com/users/1248237938404491265)
 [![Static Badge](https://img.shields.io/badge/Atabook-%23d19dbc?logoColor=white&link=https%3A%2F%2Fdeathrider.atabook.org%2F)](https://deathrider.atabook.org)
