@@ -5,13 +5,14 @@
   <br> ${\textsf{\color{#ffffff}   can cud even if im with friends
     }}$
 
-<img width="350" height="350" alt="image" src="https://files.catbox.moe/ii675u.gif" />
-  
-[![Static Badge](https://img.shields.io/badge/Discord-%23d19dbc?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.com%2Fusers%2F1248237938404491265)](https://discord.com/users/1248237938404491265)
-[![Static Badge](https://img.shields.io/badge/Atabook-%23d19dbc?logoColor=white&link=https%3A%2F%2Fdeathrider.atabook.org%2F)](https://deathrider.atabook.org)
-[![Static Badge](https://img.shields.io/badge/Rentry-%23d19dbc?logoColor=white&link=https%3A%2F%2Frentry.co%2Fdeathr1der)](https://rentry.co/riderofdeath)
-[![Static Badge](https://img.shields.io/badge/Strawpage-%23d19dbc?style=flat&link=https%3A%2F%2Fvampsenpai.straw.page%2F)](https://deathriderr.straw.page/)
-<img width="65" height="28" alt="image" src="https://github.com/user-attachments/assets/e87b3059-5eda-43ba-af5f-10ed6e54dcad" />
+<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/a90b1a73-1426-4dad-9037-02061dd4d46c" />
+
+[![Static Badge](https://img.shields.io/badge/Discord-%234f0c23?logo=Discord&logoColor=ffffff&color=%234f0c23)](https://discord.com/users/1248237938404491265)
+[![Static Badge](https://img.shields.io/badge/Atabook-%234f0c23?logo=academia&logoColor=ffffff&color=%234f0c23)](https://deathrider.atabook.org)
+[![Static Badge](https://img.shields.io/badge/Rentry-%234f0c23?logoColor=ffffff&color=%234f0c23)](https://rentry.co/deathsrider)
+[![Static Badge](https://img.shields.io/badge/Strawpage-%234f0c23?logoColor=ffffff&color=%234f0c23)](https://deathriderr.straw.page/)
+<img width="59" height="18" alt="image" src="https://github.com/user-attachments/assets/efd4acfd-3ba1-4f78-b13f-750068ba9e30" />
+
 
 -  
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1aeb3172-2c17-42bc-ade2-11736f64fcd6" />
