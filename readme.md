@@ -10,7 +10,7 @@
 [![Static Badge](https://img.shields.io/badge/Discord-%234f0c23?logo=Discord&logoColor=ffffff&color=%234f0c23)](https://discord.com/users/1248237938404491265)
 [![Static Badge](https://img.shields.io/badge/Atabook-%234f0c23?logo=academia&logoColor=ffffff&color=%234f0c23)](https://deathrider.atabook.org)
 [![Static Badge](https://img.shields.io/badge/Rentry-%234f0c23?logoColor=ffffff&color=%234f0c23)](https://rentry.co/deathsrider)
-[![Static Badge](https://img.shields.io/badge/Strawpage-%234f0c23?logoColor=ffffff&color=%234f0c23)](https://deathriderr.straw.page/)
+[![Static Badge](https://img.shields.io/badge/Strawpage-%234f0c23?logoColor=ffffff&color=%234f0c23)](https://deathsrider.straw.page/)
 <img width="59" height="18" alt="image" src="https://github.com/user-attachments/assets/efd4acfd-3ba1-4f78-b13f-750068ba9e30" />
 
 
