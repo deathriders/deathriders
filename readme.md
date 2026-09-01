@@ -15,7 +15,9 @@
 
 
 -  
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1aeb3172-2c17-42bc-ade2-11736f64fcd6" />
+
+<img width="200" height="200" alt="image" src="https://files.catbox.moe/wtoi16.jpg" />
+
 
 
   me and user [@deathsdespair](https://github.com/deathsdespair)
