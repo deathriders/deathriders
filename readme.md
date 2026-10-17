@@ -1,25 +1,29 @@
 <div align="center">
 
-<br> ${\textsf{\color{#ffffff}  c+h and int on pt is encouraged even if it isn't in my pony name.
-    }}$
-  <br> ${\textsf{\color{#ffffff}   can cud even if im with friends
-    }}$
-
-<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/a90b1a73-1426-4dad-9037-02061dd4d46c" />
-
-[![Static Badge](https://img.shields.io/badge/Discord-%234f0c23?logo=Discord&logoColor=ffffff&color=%234f0c23)](https://discord.com/users/1248237938404491265)
-[![Static Badge](https://img.shields.io/badge/Atabook-%234f0c23?logo=academia&logoColor=ffffff&color=%234f0c23)](https://deathrider.atabook.org)
-[![Static Badge](https://img.shields.io/badge/Rentry-%234f0c23?logoColor=ffffff&color=%234f0c23)](https://rentry.co/deathr1ders)
-[![Static Badge](https://img.shields.io/badge/Strawpage-%234f0c23?logoColor=ffffff&color=%234f0c23)](https://shadowlord420x.straw.page/)
-<img width="59" height="18" alt="image" src="https://github.com/user-attachments/assets/efd4acfd-3ba1-4f78-b13f-750068ba9e30" />
 
 
--  
+
+
+ <   <table style="width:100%">
+        <tr>
+            <td>
+  <p align="center"><img width="208" height="23" alt="image" src="https://github.com/user-attachments/assets/155d71f4-bca0-4e94-8bce-eccacb7e093e" /></p>
+   <p align="center">𝑉𝑎𝑚𝑝 <ins>𝑜𝑟</ins> 𝛣𝑒𝑙𝑝𝒉𝑖𝑒 </p>
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/0839f203-38a7-4da3-93a5-f3a7054da736" />  
+     <p align="center">𝑐*𝒉 𝑎𝑙𝑤𝑎𝑦𝑠 𝑜𝑝𝑒𝑛</p>
+  <p align="center"><img width="208 height="23" alt="image" src="https://github.com/user-attachments/assets/12b176fc-956d-455a-aaf0-02ceeb954c79" /></p>
+</table>
+
+readme is a **wip**
+
 
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/80c86450-705d-4c58-bb95-f166ecdaf1e2" />
 
-
-
   me and user [@deathsdespair](https://github.com/deathsdespair)
+
+
+
+
+
 
 
