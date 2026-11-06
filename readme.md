@@ -9,12 +9,14 @@
             <td>
   <p align="center"><img width="208" height="23" alt="image" src="https://github.com/user-attachments/assets/155d71f4-bca0-4e94-8bce-eccacb7e093e" /></p>
    <p align="center">𝑉𝑎𝑚𝑝 <ins>𝑜𝑟</ins> 𝛣𝑒𝑙𝑝𝒉𝑖𝑒 </p>
-   <img width="300" height="300" alt="image" src="https://files.catbox.moe/084aeq.webp" />
+   <p align="center"><img width="300" height="300" alt="image" src="https://files.catbox.moe/a4471t.webp" />
     <p align="center">𝑐*𝒉 𝑎𝑙𝑤𝑎𝑦𝑠 𝑜𝑝𝑒𝑛</p>
  <p align="center"><img width="64" height="36" alt="image" src="https://github.com/user-attachments/assets/264df001-e2fa-4b81-8945-a8284a24a58d" />
 <img width="64" height="36" alt="image" src="https://github.com/user-attachments/assets/a37a1034-c8f7-468f-9430-1646e7646dd2" />
 <img width="64" height="36" alt="image" src="https://github.com/user-attachments/assets/bf51cf61-1085-4262-ae1b-bd73c63e03a9" />
 <img width="64" height="36" alt="image" src="https://github.com/user-attachments/assets/9dc40a21-34f1-479b-91a7-eaf21b5ab73a" />
+<img width="64" height="36" alt="image" src="https://github.com/user-attachments/assets/e167bc63-4d7e-4ca6-bf6c-203499ae145f" />
+
   <p align="center"><img width="208 height="23" alt="image" src="https://github.com/user-attachments/assets/12b176fc-956d-455a-aaf0-02ceeb954c79" /></p>
 </table>
 
